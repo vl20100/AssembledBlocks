@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "block_stone",
+  "ingredients": [
+    {
+      "item": "assembledblocks:1_0_stone/assembled_stone"
+    }
+  ],
+  "result": {
+    "item": "minecraft:stone",
+    "count": 8
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "north": "assembledblocks:block/1_0_stone/assembled_stone",
+    "south": "assembledblocks:block/1_0_stone/assembled_stone",
+    "east": "assembledblocks:block/1_0_stone/assembled_stone",
+    "west": "assembledblocks:block/1_0_stone/assembled_stone",
+    "up": "assembledblocks:block/1_0_stone/1_0_stone",
+    "down": "assembledblocks:block/1_0_stone/1_0_stone"
+  }
+}
