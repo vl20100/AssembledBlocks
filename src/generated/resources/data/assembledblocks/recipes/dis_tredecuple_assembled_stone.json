@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "block_duodecuple_assembled_stone",
+  "ingredients": [
+    {
+      "item": "assembledblocks:1_0_stone/tredecuple_assembled_stone"
+    }
+  ],
+  "result": {
+    "item": "assembledblocks:1_0_stone/duodecuple_assembled_stone",
+    "count": 8
+  }
+}

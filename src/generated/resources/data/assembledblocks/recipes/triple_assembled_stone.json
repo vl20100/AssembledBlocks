@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "block_triple_assembled_stone",
+  "pattern": [
+    "sss",
+    "ses",
+    "sss"
+  ],
+  "key": {
+    "e": {
+      "item": "assembledblocks:elastic"
+    },
+    "s": {
+      "item": "assembledblocks:1_0_stone/double_assembled_stone"
+    }
+  },
+  "result": {
+    "item": "assembledblocks:1_0_stone/triple_assembled_stone"
+  }
+}

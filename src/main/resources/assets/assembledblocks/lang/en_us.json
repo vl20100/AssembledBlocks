@@ -1,4 +1,37 @@
 {
   "item.assembledblocks.elastic": "Elastic",
-  "block.assembledblocks.1_0_stone.assembled_stone": "Assembled Stone"
+
+  "block.assembledblocks.1_0_stone.assembled_stone": "Assembled Stone",
+  "block.assembledblocks.1_0_stone.double_assembled_stone": "Double Assembled Stone",
+  "block.assembledblocks.1_0_stone.triple_assembled_stone": "Triple Assembled Stone",
+  "block.assembledblocks.1_0_stone.quadruple_assembled_stone": "Quadruple Assembled Stone",
+  "block.assembledblocks.1_0_stone.quintuple_assembled_stone": "Quintuple Assembled Stone",
+  "block.assembledblocks.1_0_stone.sextuple_assembled_stone": "Sextuple Assembled Stone",
+  "block.assembledblocks.1_0_stone.septuple_assembled_stone": "Septuple Assembled Stone",
+  "block.assembledblocks.1_0_stone.octuple_assembled_stone": "Octuple Assembled Stone",
+  "block.assembledblocks.1_0_stone.nonuple_assembled_stone": "Nonuple Assembled Stone",
+  "block.assembledblocks.1_0_stone.decuple_assembled_stone": "Decuple Assembled Stone",
+  "block.assembledblocks.1_0_stone.undecuple_assembled_stone": "Undecuple Assembled Stone",
+  "block.assembledblocks.1_0_stone.duodecuple_assembled_stone": "Duodecuple Assembled Stone",
+  "block.assembledblocks.1_0_stone.tredecuple_assembled_stone": "Tredecuple Assembled Stone",
+  "block.assembledblocks.1_0_stone.quatuordecuple_assembled_stone": "Quatuordecuple Assembled Stone",
+  "block.assembledblocks.1_0_stone.quindecuple_assembled_stone": "Quindecuple Assembled Stone",
+  "block.assembledblocks.1_0_stone.sexdecuple_assembled_stone": "Sexdecuple Assembled Stone",
+
+  "block.assembledblocks.1_1_granite.assembled_granite": "Assembled Granite",
+  "block.assembledblocks.1_1_granite.double_assembled_granite": "Double Assembled Granite",
+  "block.assembledblocks.1_1_granite.triple_assembled_granite": "Triple Assembled Granite",
+  "block.assembledblocks.1_1_granite.quadruple_assembled_granite": "Quadruple Assembled Granite",
+  "block.assembledblocks.1_1_granite.quintuple_assembled_granite": "Quintuple Assembled Granite",
+  "block.assembledblocks.1_1_granite.sextuple_assembled_granite": "Sextuple Assembled Granite",
+  "block.assembledblocks.1_1_granite.septuple_assembled_granite": "Septuple Assembled Granite",
+  "block.assembledblocks.1_1_granite.octuple_assembled_granite": "Octuple Assembled Granite",
+  "block.assembledblocks.1_1_granite.nonuple_assembled_granite": "Nonuple Assembled Granite",
+  "block.assembledblocks.1_1_granite.decuple_assembled_granite": "Decuple Assembled Granite",
+  "block.assembledblocks.1_1_granite.undecuple_assembled_granite": "Undecuple Assembled Granite",
+  "block.assembledblocks.1_1_granite.duodecuple_assembled_granite": "Duodecuple Assembled Granite",
+  "block.assembledblocks.1_1_granite.tredecuple_assembled_granite": "Tredecuple Assembled Granite",
+  "block.assembledblocks.1_1_granite.quatuordecuple_assembled_granite": "Quatuordecuple Assembled Granite",
+  "block.assembledblocks.1_1_granite.quindecuple_assembled_granite": "Quindecuple Assembled Granite",
+  "block.assembledblocks.1_1_granite.sexdecuple_assembled_granite": "Sexdecuple Assembled Granite"
 }

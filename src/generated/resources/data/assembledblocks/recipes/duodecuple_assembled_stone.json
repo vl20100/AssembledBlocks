@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "block_duodecuple_assembled_stone",
+  "pattern": [
+    "sss",
+    "ses",
+    "sss"
+  ],
+  "key": {
+    "e": {
+      "item": "assembledblocks:elastic"
+    },
+    "s": {
+      "item": "assembledblocks:1_0_stone/undecuple_assembled_stone"
+    }
+  },
+  "result": {
+    "item": "assembledblocks:1_0_stone/duodecuple_assembled_stone"
+  }
+}
